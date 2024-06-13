@@ -6,4 +6,10 @@ sudo apt install -y git && git clone https://github.com/thigranpeio/installtzap.
 
 https://github.com/thigranpeio/TZap.git 
 
+Segunda estancia:
+
+cd && cd ./install && sudo ./install_instancia
+
+
+
 admin@admin.com 123456
